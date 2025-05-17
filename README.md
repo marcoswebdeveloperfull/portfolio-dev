@@ -5,6 +5,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-marcoswebdeveloperfull-lightgrey?style=flat-square&logo=github)](https://github.com/marcoswebdeveloperfull)
 [![Email](https://img.shields.io/badge/Email-formatacao.marcos.amaral@outlook.com-red?style=flat-square&logo=envelope)](mailto:formatacao.marcos.amaral@outlook.com)
 
+![image](https://github.com/user-attachments/assets/b6c2610f-f23c-4b6f-9b64-f0e9cae2d79b)
+
+
 ## 👋Sobre Mim
 
 Olá! Meu nome é **Marcos Amaral** e sou um **Desenvolvedor Fullstack** apaixonado por transformar ideias em aplicações web robustas e escaláveis. Dedico-me a criar sistemas inovadores e funcionais, buscando sempre soluções eficazes para desafios complexos.
